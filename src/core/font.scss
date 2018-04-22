@@ -1,4 +1,21 @@
 /**
+ * JP Font
+ */
+@font-face {
+  font-family: 'GenShinGothic-N';
+  src: url('./fonts/GenShinGothic-Normal.ttf') format('truetype');
+  font-weight: normal;
+  font-size: normal;
+}
+
+@font-face {
+  font-family: 'GenShinGothic-B';
+  src: url('./fonts/GenShinGothic-Bold.ttf') format('truetype');
+  font-weight: bold;
+  font-size: normal;
+}
+
+/**
  * IconFont
  */
 @font-face {

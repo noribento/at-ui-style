@@ -4,27 +4,17 @@
   </a>
 </p>
 
-# AT-UI Style
+# AT-UI Style for CFIM
 
 [![NPM][npm-version-image]][npm-version-url]
 
-`AT-UI Style` is an ui component library based on `Flexbox`, be used for [AT-UI](https://at.aotu.io/)
-
-## Install
-
-```bash
-npm install at-ui-style
-```
+`AT-UI Style for CFIM` is an ui component library based on `Flexbox` and [`AT-UI Style`](https://github.com/AT-UI/at-ui-style), be used for [AT-UI](https://at.aotu.io/)
 
 ## Usage
 
 ```js
-import 'at-ui-style'
+import 'at-ui-style_cfim'
 ```
-
-## Contribution
-
-Finding bugs, sending pull requests or improving our docs - any contribution is welcome and highly appreciated. To get started, head over to our [contribution guidelines](https://github.com/at-ui/at-ui-style/blob/master/CONTRIBUTING.md). Thanks!
 
 ## License
 
