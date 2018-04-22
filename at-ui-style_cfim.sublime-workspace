@@ -55,6 +55,23 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "src/variables/default.scss",
+			"settings":
+			{
+				"buffer_size": 26169,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/components/button.scss",
+			"settings":
+			{
+				"buffer_size": 5096,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -96,10 +113,18 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/hiroto/Documents/GitHub/at-ui-style_cfim"
+		"/Users/hiroto/Documents/GitHub/at-ui-style_cfim",
+		"/Users/hiroto/Documents/GitHub/at-ui-style_cfim/src",
+		"/Users/hiroto/Documents/GitHub/at-ui-style_cfim/src/components",
+		"/Users/hiroto/Documents/GitHub/at-ui-style_cfim/src/core",
+		"/Users/hiroto/Documents/GitHub/at-ui-style_cfim/src/fonts"
 	],
 	"file_history":
 	[
+		"/Users/hiroto/Documents/GitHub/at-ui-style_cfim/src/core/base.scss",
+		"/Users/hiroto/Documents/GitHub/at-ui-style_cfim/src/core/font.scss",
+		"/Users/hiroto/Documents/GitHub/at-ui-style_cfim/src/variables/default.scss",
+		"/Users/hiroto/Documents/GitHub/at-ui-style_cfim/README.md",
 		"/Users/hiroto/Documents/GitHub/CFIM/plugins/at-ui.js",
 		"/Users/hiroto/Documents/GitHub/CFIM/assets/css/at-ui-custom.scss",
 		"/Users/hiroto/Documents/GitHub/CFIM/package.json",
@@ -238,6 +263,10 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"aticon",
+			"font-family",
+			"font",
+			"font-family"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -255,8 +284,69 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "src/variables/default.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 26169,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5550,
+								5554
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Sass/Syntaxes/SCSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 2313.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/components/button.scss",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 5096,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Sass/Syntaxes/SCSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1068.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
 			]
 		}
 	],
