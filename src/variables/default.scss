@@ -6,14 +6,14 @@
  /* Prefix */
 $css-prefix: at;
 
-/* The Color of O2Team Brand */
-$brand-color                : #6190E8;
-$brand-color-light          : #78A4F4;
-$brand-color-dark           : #346FC2;
+/* The Color of CFIM */
+$brand-color                : #971C42;
+$brand-color-light          : #ab4967;
+$brand-color-dark           : #781634;
 
 /* Color */
-$color-normal               : #6190E8;
-$color-primary              : #971c42;
+$color-normal               : #971C42;
+$color-primary              : #971C42;
 $color-success              : #13CE66;
 $color-error                : #FF4949;
 $color-warning              : #FFC82C;
@@ -53,6 +53,17 @@ $red-600                    : #FF4242;
 $red-700                    : #FF3939;
 $red-800                    : #FF3131;
 $red-900                    : #FF2121;
+
+$maroon-50                     : #F3E4E8;
+$maroon-100                    : #E0BBC6;
+$maroon-200                    : #CB8EA1;
+$maroon-300                    : #B6607B;
+$maroon-400                    : #A73E5E;
+$maroon-500                    : #971C42;
+$maroon-600                    : #8F193C;
+$maroon-700                    : #841433;
+$maroon-800                    : #7A112B;
+$maroon-900                    : #69091D;
 
 $yellow-50                  : #FFF8E6;
 $yellow-100                 : #FFEFC0;
@@ -125,7 +136,7 @@ $border-radius-base         : 4px;
 $border-radius-sm           : 4px;
 
 /* Font */
-$font-family                : -apple-system, BlinkMacSystemFont, "GenShinGothic-N", Arial, sans-serif;
+$font-family                : "Nunito-R", "GenShinGothic-N", Arial, sans-serif;
 $code-family                : Consolas, Menlo, Courier, monospace;
 
 $font-size-smest            : 11px;
@@ -163,8 +174,8 @@ $btn-default-bg-hover       : $border-color-lightest;
 $btn-default-bg-active      : $border-color-lighter;
 $btn-default-border         : $border-color-base;
 
-$btn-primary-bg             : $brand-blue-500;
-$btn-primary-border         : $brand-blue-500;
+$btn-primary-bg             : $maroon-400;
+$btn-primary-border         : $maroon-400;
 
 $btn-success-bg             : $green-500;
 $btn-success-border         : $green-500;
@@ -637,9 +648,9 @@ $menu-bg-color-dark-hover            : $black-600;
 $menu-font-size                      : $font-size-base;
 $menu-icon-size                      : $font-size-base;
 
-$menu-item-text-color-active         : $brand-blue-500;
-$menu-item-bg-color-active           : $brand-blue-50;
-$menu-item-bg-color-active-inline    : rgba(236, 242, 252, 0.2);
+$menu-item-text-color-active         : $maroon-500;
+$menu-item-bg-color-active           : $maroon-50;
+$menu-item-bg-color-active-inline    : #FFFCFD;
 
 $menu-submenu-padding                : 12px 16px;
 $menu-item-padding                   : 12px 16px;
@@ -656,8 +667,8 @@ $menu-dropdown-item-font-size        : $font-size-smer;
 
 $menu-height-horizontal              : 48px;
 $menu-border-color                   : $border-color-lighter;
-$menu-prefix-bg-color                : $brand-blue-500;
-$menu-prefix-bg-color-dark           : $brand-blue-500;
+$menu-prefix-bg-color                : $maroon-400;
+$menu-prefix-bg-color-dark           : $maroon-400;
 $menu-icon-color-inline              : $border-color-base;
 
 /* Pagination */
