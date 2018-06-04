@@ -136,7 +136,7 @@ $border-radius-base         : 4px;
 $border-radius-sm           : 4px;
 
 /* Font */
-$font-family                : "Nunito-R", "GenShinGothic-N", Arial, sans-serif;
+$font-family                : "Nunito-R", "RoundedMgen-R", Arial, sans-serif;
 $code-family                : Consolas, Menlo, Courier, monospace;
 
 $font-size-smest            : 11px;
@@ -146,6 +146,9 @@ $font-size-base             : 14px;
 $font-size-normal           : 16px;
 $font-size-lg               : 18px;
 $font-size-lger             : 20px;
+
+$font-weight-normal         : 400;
+$font-weight-bold           : 700;
 
 $line-height-base           : 1.5;
 $line-height-computed       : floor($font-size-base * $line-height-base);

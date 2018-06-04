@@ -117,9 +117,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 h1 {
   font-size: $font-size-lger;
+  font-weight: $font-weight-bold;
 }
 h2 {
   font-size: $font-size-lg;
+  font-weight: $font-weight-bold;
 }
 h3 {
   font-size: $font-size-normal;
@@ -157,6 +159,9 @@ p {
 .text-larger {
   font-size: $font-size-lger;
 }
+b {
+  font-weight: $font-weight-bold;
+}
 
 /*// Color
 $normal-color             : #6190E8;
@@ -170,6 +175,12 @@ $info-color               : #78A4FA;
 }*/
 
 /* Font */
+.typo-RMgenR {
+  font-family: 'RoundedMgen-R', Arial, sans-serif;
+}
+.typo-RMgenB {
+  font-family: 'RoundedMgen-B', Arial, sans-serif;
+}
 .typo-GenShinL {
   font-family: 'GenShinGothic-L', Arial, sans-serif;
 }
@@ -183,11 +194,11 @@ $info-color               : #78A4FA;
   font-family: 'GenShinGothic-B', Arial, sans-serif;
 }
 .typo-helvetica-neue {
-  font-family: 'Helvetica Neue', "GenShinGothic-N", sans-serif;
+  font-family: 'Helvetica Neue', "RoundedMgen-R", sans-serif;
 }
 .typo-helvetica {
-  font-family: Helvetica, "GenShinGothic-N", sans-serif;
+  font-family: Helvetica, "RoundedMgen-R", sans-serif;
 }
 .typo-arial {
-  font-family: Arial, "GenShinGothic-N", sans-serif;
+  font-family: Arial, "RoundedMgen-R", sans-serif;
 }
