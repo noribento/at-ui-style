@@ -99,12 +99,13 @@
 		"/Users/hiroto/Documents/GitHub/at-ui-style_cfim",
 		"/Users/hiroto/Documents/GitHub/at-ui-style_cfim/src",
 		"/Users/hiroto/Documents/GitHub/at-ui-style_cfim/src/core",
-		"/Users/hiroto/Documents/GitHub/at-ui-style_cfim/src/fonts"
+		"/Users/hiroto/Documents/GitHub/at-ui-style_cfim/src/fonts",
+		"/Users/hiroto/Documents/GitHub/at-ui-style_cfim/src/variables"
 	],
 	"file_history":
 	[
-		"/Users/hiroto/Documents/GitHub/at-ui-style_cfim/src/variables/default.scss",
 		"/Users/hiroto/Documents/GitHub/at-ui-style_cfim/src/core/font.scss",
+		"/Users/hiroto/Documents/GitHub/at-ui-style_cfim/src/variables/default.scss",
 		"/Users/hiroto/Documents/GitHub/at-ui-style_cfim/src/core/base.scss",
 		"/Users/hiroto/Documents/GitHub/at-ui-style_cfim/src/variables/index.scss",
 		"/Users/hiroto/Documents/GitHub/at-ui-style_cfim/README.md",
@@ -232,7 +233,7 @@
 	],
 	"find":
 	{
-		"height": 27.0
+		"height": 70.0
 	},
 	"find_in_files":
 	{

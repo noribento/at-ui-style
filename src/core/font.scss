@@ -23,16 +23,9 @@
 }
 
 @font-face {
-  font-family: 'GenShinGothic-N';
-  src: url('./fonts/GenShinGothic-Normal.woff2') format('woff2');
+  font-family: 'GenShinGothic-R';
+  src: url('./fonts/GenShinGothic-Regular.woff2') format('woff2');
   font-weight: 400;
-  font-size: normal;
-}
-
-@font-face {
-  font-family: 'GenShinGothic-M';
-  src: url('./fonts/GenShinGothic-Medium.woff2') format('woff2');
-  font-weight: 500;
   font-size: normal;
 }
 
@@ -40,6 +33,13 @@
   font-family: 'GenShinGothic-B';
   src: url('./fonts/GenShinGothic-Bold.woff2') format('woff2');
   font-weight: 700;
+  font-size: normal;
+}
+
+@font-face {
+  font-family: 'GenShinGothic-H';
+  src: url('./fonts/GenShinGothic-Heavy.woff2') format('woff2');
+  font-weight: 900;
   font-size: normal;
 }
 
