@@ -7,3 +7,6 @@
 *.ttf binary
 *.woff binary
 *.eot binary
+*.svg binary
+*.otf binary
+*.woff2 binary
