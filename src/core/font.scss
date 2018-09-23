@@ -2,20 +2,6 @@
  * JP Font
  */
 @font-face {
-  font-family: 'RoundedMgen-R';
-  src: url('./fonts/rounded-l-mgenplus-1p-regular.woff2') format('woff2');
-  font-weight: 400;
-  font-size: normal;
-}
-
-@font-face {
-  font-family: 'RoundedMgen-B';
-  src: url('./fonts/rounded-l-mgenplus-1p-bold.woff2') format('woff2');
-  font-weight: 700;
-  font-size: normal;
-}
-
-@font-face {
   font-family: 'GenShinGothic-L';
   src: url('./fonts/GenShinGothic-Light.woff2') format('woff2');
   font-weight: 300;
@@ -56,6 +42,20 @@
 @font-face {
   font-family: 'Nunito-B';
   src: url('./fonts/Nunito-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-size: normal;
+}
+
+@font-face {
+  font-family: 'Roboto-R';
+  src: url('./fonts/Roboto-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-size: normal;
+}
+
+@font-face {
+  font-family: 'Roboto-B';
+  src: url('./fonts/Roboto-Bold.ttf') format('truetype');
   font-weight: 700;
   font-size: normal;
 }
